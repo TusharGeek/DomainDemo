@@ -1,0 +1,44 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.UserHeader{
+    height: 600px;
+    background-image: url(https://wallpaperaccess.com/download/money-heist-season-1-3034968);
+    box-shadow: inset 50px 50px 300px rgb(0, 0, 0.9); 
+   
+    
+}
+.Nav-bar-Menu1{
+    color: rgba(255, 255, 255, 0.74);
+    display: flex;
+    float: right;
+    position: relative;
+    right: 500px;
+    top: 13px;
+}
+.Nav-bar-Menu2{
+    color: rgba(255, 255, 255, 0.74);
+    display:inline-flex;
+    float: right;
+    position: relative;
+    left: 470px;
+
+}
+.NavItem{
+    transition: .2s;
+    scroll-behavior: smooth;
+}
+.NavItem:hover{
+    color: white;
+    cursor: pointer;
+    transform: scale(1.2);
+    margin-right: 20px;
+    margin-left: 20px;
+}
+li{
+    list-style: none;
+}
+.Caroisel-Section{
+    margin-top: 60px;
+}

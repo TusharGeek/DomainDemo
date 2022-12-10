@@ -1,0 +1,19 @@
+hr{
+border: none;
+background-color: rgba(128, 128, 128, 0.269);
+margin: 0;
+height: 7px;
+}
+.Img{
+    display: flex;
+    justify-content: center;
+    margin-top: -250px;
+}
+.SectionContent{
+    margin: 250px;
+    margin-top: 80px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    line-height: 1.3;
+}

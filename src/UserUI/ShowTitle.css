@@ -1,0 +1,36 @@
+.Title{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 5rem;
+    line-height: 1;
+    margin-left: 100px;
+    margin-bottom: 0;
+    margin-top: 75px;
+}
+.User-Header-Button{
+    background-color:#303030;
+    opacity: 75%;
+    color: white;
+    border: none;
+    padding: 10px 40px;
+    margin: 5px;
+    font-weight: 700;
+    border-radius: 2px;
+    
+}
+.button{
+    margin-left: 100px;
+    margin-bottom: 0px;
+}
+.SubTitle{
+    color: white;
+    margin-left: 105px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+.SubTitle2{
+    margin-left: 105px;
+    margin-top: 10px;
+    color: rgba(255, 255, 255, 0.802);
+    width: 30%;
+}

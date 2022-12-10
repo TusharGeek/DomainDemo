@@ -1,0 +1,76 @@
+hr{
+    border: none;
+    background-color: rgba(128, 128, 128, 0.269);
+    margin: 0;
+    height: 7px;
+}
+.QnASectionContent{
+    margin: 250px;
+    margin-top: 80px;
+    margin-bottom: 120px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    line-height: 1.3;  
+}
+
+.QuestionBar{
+    height: 50px;
+    text-align: left;
+    padding-left:30px;
+    padding-top: 1px;
+    padding-bottom: 14px;
+    border-radius: 2px;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 12px;
+    background-color:#303030;
+}
+p{
+    width: 97%;
+}
+.dropDown{
+    line-height: 1.8;
+    height: 150px;
+    text-align: left;
+    padding-left:30px;
+    padding-top: 1px;
+    padding-bottom: 14px;
+    border-radius: 2px;
+    width: 800px;
+    margin: auto;
+    margin-top: -10px;
+    margin-bottom: 12px;
+    background-color:#303030;
+    overflow-y:scroll; 
+}
+.Icon{
+    float: right;
+    margin-top: -43px;
+    margin-right: 20px;
+}
+.Button3{
+    height: 36px;
+    width: 200px;
+    border-radius: 2px;
+    border: none;
+    background-color: #ea212b;
+    color: white;
+    font-weight: 500;
+    margin-top: 20px; 
+}
+.QuestionInput{
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+    padding-left: 10px;
+}
+::placeholder{
+    font-weight: 100;
+}
